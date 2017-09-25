@@ -13,6 +13,7 @@ public class Test {
         Dzien dzien1 = new Dzien(9);
         dzien1.sprawdz();
 
+        System.out.println("\nZadanie 3 - quiz");
         MathQuiz quiz=new MathQuiz();
         quiz.question1();
         quiz.question2();
